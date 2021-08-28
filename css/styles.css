@@ -1,0 +1,115 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 110%;
+  color: #40514E;
+}
+h1{
+  margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    line-height: 1;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+hr {
+  border: dotted #DDDDDD 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.top-container{
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+.middle-container{
+  padding: 100px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 50px;
+
+}
+.pro{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  top: 400px;
+  left: 300px;
+}
+
+.myphoto-img{
+  width: 150px;
+  height: auto;
+}
+.photography-img{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+
+.makeup-img{
+  width: 20%;
+  float: right;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+
+.last-p{
+  margin-bottom: 0;
+  padding-bottom: 50px;
+  color: #EAF6F6;
+}
+.footer-link{
+  color: #11999E;
+  margin: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.BUTTON_ORW {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: Verdana;
+   width: 137px;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 20px;
+   background-color: #66BFBF;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+.profile{
+  margin-bottom: 50px;
+}
